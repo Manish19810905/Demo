@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FREE CRM Application Test Automation Test Suite" duration-ms="113950" started-at="2020-01-09T18:11:10Z" finished-at="2020-01-09T18:13:04Z">
+    <groups>
+    </groups>
+    <test name="FREE CRM App Test Cases" duration-ms="113950" started-at="2020-01-09T18:11:10Z" finished-at="2020-01-09T18:13:04Z">
+      <class name="com.crm.qa.testCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="setUp" is-config="true" duration-ms="12190" started-at="2020-01-09T12:11:47Z" finished-at="2020-01-09T12:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="homePageTitle()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="homePageTitle" duration-ms="7" started-at="2020-01-09T12:11:59Z" finished-at="2020-01-09T12:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="tearDown" is-config="true" duration-ms="689" started-at="2020-01-09T12:11:59Z" finished-at="2020-01-09T12:12:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="setUp" is-config="true" duration-ms="11967" started-at="2020-01-09T12:12:00Z" finished-at="2020-01-09T12:12:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="veriftUserNameTest()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="veriftUserNameTest" duration-ms="903" started-at="2020-01-09T12:12:12Z" finished-at="2020-01-09T12:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- veriftUserNameTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="tearDown" is-config="true" duration-ms="4738" started-at="2020-01-09T12:12:13Z" finished-at="2020-01-09T12:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="setUp" is-config="true" duration-ms="12256" started-at="2020-01-09T12:12:17Z" finished-at="2020-01-09T12:12:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyContactsLinkTest()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="verifyContactsLinkTest" duration-ms="1126" started-at="2020-01-09T12:12:30Z" finished-at="2020-01-09T12:12:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.HomePageTest@1593948d]" name="tearDown" is-config="true" duration-ms="4733" started-at="2020-01-09T12:12:31Z" finished-at="2020-01-09T12:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testCases.HomePageTest -->
+      <class name="com.crm.qa.testCases.ContactPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.ContactPageTest@4520ebad]" name="setUp" is-config="true" duration-ms="12516" started-at="2020-01-09T12:12:35Z" finished-at="2020-01-09T12:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="vefifyContactPageLevel()[pri:0, instance:com.crm.qa.testCases.ContactPageTest@4520ebad]" name="vefifyContactPageLevel" duration-ms="55" started-at="2020-01-09T12:12:48Z" finished-at="2020-01-09T12:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vefifyContactPageLevel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.ContactPageTest@4520ebad]" name="tearDown" is-config="true" duration-ms="1250" started-at="2020-01-09T12:12:48Z" finished-at="2020-01-09T12:12:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.ContactPageTest@4520ebad]" name="setUp" is-config="true" duration-ms="12961" started-at="2020-01-09T12:12:49Z" finished-at="2020-01-09T12:13:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateCreateNewContact()[pri:0, instance:com.crm.qa.testCases.ContactPageTest@4520ebad]" name="validateCreateNewContact" duration-ms="1282" started-at="2020-01-09T12:13:02Z" finished-at="2020-01-09T12:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateNewContact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.ContactPageTest@4520ebad]" name="tearDown" is-config="true" duration-ms="682" started-at="2020-01-09T12:13:03Z" finished-at="2020-01-09T12:13:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testCases.ContactPageTest -->
+      <class name="com.crm.qa.testCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.LoginPageTest@482f8f11]" name="setUp" is-config="true" duration-ms="12662" started-at="2020-01-09T12:11:10Z" finished-at="2020-01-09T12:11:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.crm.qa.testCases.LoginPageTest@482f8f11]" name="loginPageTitleTest" duration-ms="5026" started-at="2020-01-09T12:11:23Z" finished-at="2020-01-09T12:11:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.LoginPageTest@482f8f11]" name="tearDown" is-config="true" duration-ms="783" started-at="2020-01-09T12:11:28Z" finished-at="2020-01-09T12:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testCases.LoginPageTest@482f8f11]" name="setUp" is-config="true" duration-ms="11775" started-at="2020-01-09T12:11:29Z" finished-at="2020-01-09T12:11:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.crm.qa.testCases.LoginPageTest@482f8f11]" name="loginTest" duration-ms="5587" started-at="2020-01-09T12:11:40Z" finished-at="2020-01-09T12:11:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testCases.LoginPageTest@482f8f11]" name="tearDown" is-config="true" duration-ms="739" started-at="2020-01-09T12:11:46Z" finished-at="2020-01-09T12:11:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testCases.LoginPageTest -->
+    </test> <!-- FREE CRM App Test Cases -->
+  </suite> <!-- FREE CRM Application Test Automation Test Suite -->
+</testng-results>
